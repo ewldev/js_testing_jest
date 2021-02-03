@@ -1,6 +1,6 @@
-# testing
+# js_testing_jest
 
-writing jest tests for:
+writing tests in jest for:
 
 1- a simple synchronous google search app 
 
